@@ -1,0 +1,20 @@
+body{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+
+}
+ul{
+    /* height: 200px; */
+    width: 600px;
+    border: 1px solid tomato;
+    margin: auto;
+    position: relative;
+  
+}
+button{
+    position: absolute;
+    bottom: -40px;
+    padding: 10px 20px;
+    margin: auto;
+}
